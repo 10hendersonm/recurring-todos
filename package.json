@@ -1,0 +1,27 @@
+{
+  "name": "alexa-skill-todo-cron",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --exec npm run init",
+    "init": "node .",
+    "serve": ""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node-cron": "^2.0.4",
+    "ask-cli": "^2.24.1",
+    "nodemon": "^2.0.12"
+  },
+  "dependencies": {
+    "ask-sdk-core": "^2.11.0",
+    "ask-sdk-model": "^1.36.1",
+    "autoupdate": "git+https://github.com/10hendersonm/autoupdate.git#1.0.0",
+    "aws-sdk": "^2.983.0",
+    "dotenv": "^10.0.0",
+    "node-cron": "^3.0.0"
+  }
+}

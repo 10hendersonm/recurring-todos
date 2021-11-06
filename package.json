@@ -5,8 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "nodemon --exec npm run init",
-    "init": "node .",
-    "serve": ""
+    "init": "autoupdate ."
   },
   "keywords": [],
   "author": "",

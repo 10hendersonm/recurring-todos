@@ -61,5 +61,6 @@
   "Fully clean left wall cabinets": "midnight 1 4 *",
   "Fully clean right wall cabinets": "midnight 1 8 *",
   "Fully clean center wall cabinets": "midnight 1 12 *",
-  "Mop main floor": "midnight 15-21 * 7"
+  "Mop main floor": "midnight 15-21 * 7",
+  "Clean toaster oven": "midnight 2 1-12/3 *"
 }

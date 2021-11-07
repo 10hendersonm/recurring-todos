@@ -54,6 +54,7 @@
   "Change bed sheets": "midnight 8-14 * Sunday",
   "Do a home improvement project": "midnight * * Friday",
   "Check water softener salt": "midnight 25 * *",
+  "Clean water softener": "midnight 25 9 *",
   "(Marty) Fill pill container": "midnight * * Tuesday",
   "Wipe kitchen counter": "midnight */3 * *",
   "Change keurig filter": "midnight 12 2-12/3 *",

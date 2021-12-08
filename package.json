@@ -18,7 +18,7 @@
   "dependencies": {
     "ask-sdk-core": "^2.11.0",
     "ask-sdk-model": "^1.36.1",
-    "autoupdate": "git+https://github.com/10hendersonm/autoupdate.git#1.0.0",
+    "autoupdate": "git+https://github.com/10hendersonm/autoupdate.git#v2.0.0",
     "aws-sdk": "^2.983.0",
     "dotenv": "^10.0.0",
     "node-cron": "^3.0.0"
